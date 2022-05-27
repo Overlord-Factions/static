@@ -234,4 +234,10 @@ article .graph {
     -webkit-mask-image: linear-gradient(to left, black, transparent);
     mask-image: linear-gradient(to left, black, transparent);
   }
+  .container {
+    padding: 0 1rem;
+  }
+  nav > .container {
+    flex-direction: column;
+  }
 }
