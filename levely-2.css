@@ -217,10 +217,6 @@ p {
   transition-duration: .175s;
   transition-timing-function: ease-in-out;
 }
-
-img {
-  display: block
-}
 @media only screen and (max-width: 720px) {
   .parent {
     display: none !important;
