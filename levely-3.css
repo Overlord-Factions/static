@@ -218,13 +218,15 @@ img {
     visibility: visible !important;
     display: block !important;
   }
-
   .grid-el {
     margin-bottom: 10px;
-    width: 680px;
-    max-width: 100%
+    max-width: 700px !important
   }
-
+@media only screen and (max-width: 720px) {
+  .grid-el {
+    max-width: 100% !important
+  }
+}
   .div5-mobile {
     background-image: url("https://media.discordapp.net/attachments/948830924110438441/1010266496288690257/unknown.png");
     background-position: right;
