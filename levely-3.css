@@ -146,12 +146,6 @@ p {
   padding-top: 12px;
   padding-bottom: 12px;
 }
-@media only screen and (min-width:800px) {
-  .grid-el:hover {
-    transform: scale(1.3);
-    z-index: 999
-  }
-}
 .parent {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
