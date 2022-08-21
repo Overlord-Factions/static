@@ -241,6 +241,9 @@ p {
     justify-content: center;
     align-items: center
   }
+  .grid-el {
+    max-width: 100%;
+  }
   .btn {
     margin-bottom: 4px;
   }
