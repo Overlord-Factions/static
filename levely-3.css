@@ -221,7 +221,8 @@ img {
 
   .grid-el {
     margin-bottom: 10px;
-    max-width: 680px !important
+    width: 680px;
+    max-width: 100%
   }
 
   .div5-mobile {
