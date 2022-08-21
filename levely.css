@@ -241,10 +241,15 @@ img {
     justify-content: center;
     align-items: center
   }
-
+  .btn {
+    margin-bottom: 4px;
+  }
   .parent {
     display: none !important;
     visiblity: hidden !important
+  }
+  .add {
+    transform: translateX(-110px) !important;
   }
 }
 .add {
