@@ -35,7 +35,9 @@
   font-size: 16px;
   font-family: 'Roboto Mono', monospace;
 }
-
+.custom-img {
+  display: block
+}
 small {
   font-family: 'Poppins', sans-serif;
   color: #fff;
